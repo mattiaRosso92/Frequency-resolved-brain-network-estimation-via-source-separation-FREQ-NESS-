@@ -1,6 +1,6 @@
 Frequency-resolved brain network estimation via source separation (FREQ-NESS)
 
-Matlab leading script and functions for the paper entitled: "Frequency-resolved brain network estimation via source separation (FREQ-NESS)", bioRxiv (2024). M. Rosso, G. Fernández Rubio, P.E. Keller, E. Brattico, P. Vuust, M.L. Kringelbach. L. Bonetti  [link-to-preprint]
+Matlab leading script and functions for the paper entitled: "Frequency-resolved brain network estimation via source separation (FREQ-NESS)", bioRxiv (2024). M. Rosso, G. Fernández Rubio, P.E. Keller, E. Brattico, P. Vuust, M.L. Kringelbach. L. Bonetti  (https://www.biorxiv.org/content/10.1101/2024.08.28.610155v1.abstract)
 
 Additional relevant codes and functions are available here: https://github.com/leonardob92/LBPD-1.0.git
 
